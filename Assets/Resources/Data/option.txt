@@ -1,0 +1,6 @@
+Id,Name,EventName
+Id,事件名称,事件
+1001,攻击,OnAttackEvent
+1002,待机,OnIdleEvent
+1005,取消,OnCancelEvent
+1007,撤销,OnRemoveHeroToSceneEvent

@@ -1,0 +1,9 @@
+Id,Name,Des,Atk,AtkCount,Range,Target,TargetType,Sound,AniName,Time,AttackTime,AttackEffect
+Id,名称,描述,攻击力,攻击个数,攻击范围,技能目标,技能类型,音效,播放的动画名称,攻击时长（毫秒）,执行攻击检测的时间,击中特效
+10001,攻击01,普通的攻击,4,1,2,0,1,attack,attack,500,250,hit02
+10002,攻击02,普通的攻击,2,2,1,0,1,attack,attack,500,250,hit02
+10003,恶魔攻击,普通的攻击,4,1,2,2,0,attack,attack1,625,300,hit02
+10004,哥布林攻击,哥布林的攻击,5,1,3,2,0,attack,attack,667,500,hit02
+10005,雪怪攻击,雪怪的攻击,10,1,5,2,0,attack,attack,1167,583,hit02
+10006,野猪攻击,野猪的攻击,2,1,3,0,1,attack,attack,1083,550,hit02
+10007,枪兵攻击,枪兵的攻击,3,1,4,0,1,hitlightning,attack,1667,820,hit02
